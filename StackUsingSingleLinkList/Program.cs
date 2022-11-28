@@ -57,11 +57,16 @@ namespace StackUsingSingleLinkList
                 }
             }
         }
-    }
-    internal class Program
-    {
         static void Main(string[] args)
         {
+            Stack s = new Stack();
+            while (true)
+            {
+                Console.WriteLine();
+                Console.WriteLine("\n***Stack Menu***\n");
+
+            }
         }
     }
+    
 }
